@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	font-family: Verdana;
+	text-align: center
+}
+h1 {
+	color: white
+}
+h2 {
+	color: white
+}
+p {
+	color: white
+}
+p {
+	font-family: Verdana;
+	font-size: 40px
+}
+#intro {
+	background-color: #00ced1;
+	padding: 50px;
+	margin: 25px
+}
+.heading {
+	color: purple;
+	border: solid white 10px;
+	display: inline;
+}
+
+footer {
+	font-size: 10px 
+}
+#parks {
+	background-color: #FF1493;
+	padding: 50px;
+	margin: 25px
+}
+#disney {
+	background-color: #00ced3;
+	padding: 50px;
+	margin: 25px
+}
